@@ -12,7 +12,7 @@ body {
 
 .masthead {
   padding: 6em 0;
-  background-image: url('/Users/Maximilian/prework-about-me/img/code.jpg');
+  background-image: url('../img/ocean.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
